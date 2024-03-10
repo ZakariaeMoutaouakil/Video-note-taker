@@ -1,0 +1,5 @@
+# Ignore folders starting with a dot
+.*/
+
+# Ignore Python bytecode files
+__pycache__/
